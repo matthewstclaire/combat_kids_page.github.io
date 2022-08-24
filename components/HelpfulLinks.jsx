@@ -29,14 +29,19 @@ export default function HelpfulLinks() {
           </a>
         </button>
 
-        <p>IBJJF Graduation System</p>
+        <p>
+          IBJJF Graduation System will explain in depth what promotions entail.
+        </p>
         <button className="button3">
-          <a href="https://ibjjf.com/graduation-system">Tap Here</a>
+          <a href="https://ibjjf.com/graduation-system">Graduation System</a>
         </button>
 
-        <p>IBJJF Rule Book</p>
+        <p>
+          The IBJJF Rule Book will give you detailed explanation of the rules.
+          They can be complicated!
+        </p>
         <button className="button4">
-          <a href="https://ibjjf.com/books-videos">Read Here</a>
+          <a href="https://ibjjf.com/books-videos">IBJJF Rulebook</a>
         </button>
 
         <p>
@@ -44,7 +49,7 @@ export default function HelpfulLinks() {
         </p>
         <button className="button1">
           <a href="https://www.buzzfeed.com/nataliakrslovic/taking-up-brazilian-jiu-jitsu">
-            Take Me There
+            Her Story Here
           </a>
         </button>
 
@@ -54,7 +59,7 @@ export default function HelpfulLinks() {
         </p>
         <button className="button2">
           <a href="https://sg.news.yahoo.com/4-reasons-why-brazilian-jiu-jitsu-is-one-of-the-best-martial-arts-for-kids-013025041.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJ4TsPkJT0aDv6mUDFs5fTebS9EwaYjBLc_-d_QLYeHxjrXzmiDQIQT2-7wIBkO9E4bRZSKqmRAaqdKRZkuym5XD4sKRq815wbhq87ja3SEbtafNzRShTyCCvzU3oUTyudrFj9vSEMiArtyoR3k8l8gRPbpws6rwkJZ9jZbzO_yI">
-            Check It Out
+            Benefits for Kids
           </a>
         </button>
       </div>
