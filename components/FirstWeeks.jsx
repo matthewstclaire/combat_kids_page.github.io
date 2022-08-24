@@ -23,6 +23,19 @@ export default function FirstWeeks() {
         positioning, and a general idea of scoring will set students up for
         success.
       </p>
+
+      <Collapsible className="collapse" trigger="Expectation for Students">
+        <p>Below is a list of what is expected of all students.</p>
+        <ul>
+          <li>Show respect towards your instructors and students.</li>
+          <li>No talking during instruction.</li>
+          <li>No shoes on the mat.</li>
+          <li>Shoes are required off the mat.</li>
+          <li>Ask for permission before leaving the mat.</li>
+          <li>Be helpful and friendly to other students.</li>
+        </ul>
+      </Collapsible>
+
       <Collapsible className="collapse" trigger="Warm Ups">
         <p>
           Warm ups are designed to help new students understand basic movements
