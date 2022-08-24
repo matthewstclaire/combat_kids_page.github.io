@@ -157,3 +157,14 @@ a:active {
   padding-bottom: 7px;
   font-family: "Urbanist", sans-serif;
 }
+
+.print-button {
+  background-color: rgb(46, 51, 57);
+  border-radius: 10px;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-family: "Urbanist", sans-serif;
+}

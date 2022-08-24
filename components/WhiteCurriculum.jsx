@@ -8,7 +8,7 @@ export default function WhiteCurriculum(props) {
       <img className="blackbelt-img" src={Blackbelt} alt="blackbelt" />
 
       <p>Find a printable version below</p>
-      <button>
+      <button className="print-button">
         <a href="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub"></a>
         Tap for Printable Version
       </button>
