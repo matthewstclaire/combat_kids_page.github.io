@@ -55,7 +55,7 @@ export default function FirstWeeks() {
           you will come to know soon.
         </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/tgbNymZ7vqY"
           title="YouTube video player"
@@ -70,7 +70,7 @@ export default function FirstWeeks() {
           position.
         </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/ZVeW0-YIiqg"
           title="YouTube video player"
@@ -88,7 +88,7 @@ export default function FirstWeeks() {
           neck.
         </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/tgbNymZ7vqY"
           title="YouTube video player"
@@ -104,7 +104,7 @@ export default function FirstWeeks() {
           create space to form escapes from bottom positions.
         </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/4fyMiLey6rI?start=141"
           title="YouTube video player"
@@ -120,7 +120,7 @@ export default function FirstWeeks() {
           them. This video below is a great starting place.
         </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/36Yv3f8LgsA"
           title="YouTube video player"
