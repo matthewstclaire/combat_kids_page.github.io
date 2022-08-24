@@ -153,6 +153,12 @@ export default function FirstWeeks() {
           takes 8 stripes in order to progress to a gray belt. Once gray is
           obtained it will slow to 1 stripe for every 10 classes.
         </p>
+        <p>
+          The International Brazilian Jiu-Jitsu Federation(IBJJF) is the most
+          prestigous Jiu-Jitsu organization. They have set the standard for
+          rules, belt promotions, and more across the sport of Jiu-Jitsu. Combat
+          Arts follows their guidelines for promotions.
+        </p>
         <img src={Belts} className="belts-img" />
       </Collapsible>
     </div>

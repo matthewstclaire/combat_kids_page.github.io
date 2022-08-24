@@ -48,20 +48,6 @@ export default function HelpfulLinks() {
           </a>
         </button>
 
-        <p>A brief history of Jiu-Jitsu</p>
-        <button className="button3">
-          <a href="https://www.greenwichjiujitsu.com/history-of-jiu-jitsu">
-            History Lesson
-          </a>
-        </button>
-
-        <p>Jiu-Jitsu at the highest of levels.</p>
-        <button className="button4">
-          <a href="https://www.youtube.com/watch?v=XcI8ct3Ifik">
-            Watch It Here
-          </a>
-        </button>
-
         <p>IBJJF Graduation System</p>
         <button className="button3">
           <a href="https://ibjjf.com/graduation-system">Tap Here</a>
