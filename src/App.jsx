@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar-main">
-        <a href="http://127.0.0.1:5173/home">
+        <a href="http://127.0.0.1:5173/">
           <img className="main-logo" src={Logo} />
         </a>
 
