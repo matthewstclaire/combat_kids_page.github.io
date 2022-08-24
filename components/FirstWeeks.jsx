@@ -149,8 +149,8 @@ export default function FirstWeeks() {
       <Collapsible className="collapse" trigger="The Belt System">
         <p>
           At Combat Arts students progress through the kids belt system. From
-          white to grey students will receive one stripe for every 5 classes. It
-          takes 8 stripes in order to progress to a grey belt. Once grey is
+          white to gray students will receive one stripe for every 5 classes. It
+          takes 8 stripes in order to progress to a gray belt. Once gray is
           obtained it will slow to 1 stripe for every 10 classes.
         </p>
         <img src={Belts} className="belts-img" />
