@@ -1,6 +1,7 @@
 import React from "react";
 import Collapsible from "react-collapsible";
 import { useState } from "react";
+import Scoring from "../public/scoring.png";
 
 export default function FirstWeeks() {
   return (
@@ -97,6 +98,11 @@ export default function FirstWeeks() {
         className="collapse"
         trigger="Tap to Learn About Basic Positions"
       >
+        <h2>Basic Positions</h2>
+        <p>
+          Getting a visual of the positions will be best to understand them.
+          This video below is a great starting place.
+        </p>
         <iframe
           width="80%"
           height="315"
@@ -112,7 +118,16 @@ export default function FirstWeeks() {
         className="collapse"
         trigger="Tap to Learn About Jiu-Jitsu Scoring"
       >
-        <h1>Hello</h1>
+        <h2>Scoring in Jiu-Jitsu</h2>
+        <p>
+          Competing in Jiu-Jitsu is one of the things that makes it so great.
+          Competitions are safe and fun ways to push yourself in the sport. If
+          your child is interested in competiting here is breakdown of the basic
+          ways to score in Jiu-Jitsu. It can become complicated, but at this
+          point having a general understanding of where points are scored can be
+          very beneficial.
+        </p>
+        <img className="scoring-img" src={Scoring}></img>
       </Collapsible>
     </div>
   );
