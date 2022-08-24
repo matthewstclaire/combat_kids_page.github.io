@@ -127,6 +127,7 @@ a:active {
 }
 
 .blackbelt-img {
+  margin: 0 auto;
   max-width: 30%;
 }
 
@@ -178,4 +179,9 @@ a:active {
 
 .expectation-list {
   text-align: left;
+}
+
+
+.collapse {
+  margin: 12px;
 }
