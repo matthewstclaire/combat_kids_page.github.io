@@ -27,13 +27,19 @@ export default function FirstWeeks() {
         <p>
           Warm ups are designed to help new students understand basic movements
           within Jiu-Jitsu. Each warm up is a building block that will serve
-          students through all belts. It is critical to understand each
-          movement and what its eventual use will be.
+          students through all belts. It is critical to understand each movement
+          and what its eventual use will be.
         </p>
         <h3>Break Falls/Stand Up and Base</h3>
-        <p>Falling correctly is a core skill in Jiu-Jitsu. Inevitably you are going to fall down, but you can drastically minimize injury by learning to break fall correctly. Standing up and base is a more technical way of standing while offering yourself protection from a potential attacker.</p>
+        <p>
+          Falling correctly is a core skill in Jiu-Jitsu. Inevitably you are
+          going to fall down, but you can drastically minimize injury by
+          learning to break fall correctly. Standing up and base is a more
+          technical way of standing while offering yourself protection from a
+          potential attacker.
+        </p>
         <iframe
-          width="80%"
+          width="90%"
           height="315"
           src="https://www.youtube.com/embed/NGIh7ALopfM"
           title="YouTube video player"
@@ -42,7 +48,12 @@ export default function FirstWeeks() {
         ></iframe>
 
         <h3>Leg Over Drill</h3>
-        <p>A simple and effective way to keep your legs in front of you and your opponent. Any time your legs are in front of you and your opponent this is considered your "guard." Jiu-Jitsu has many types of guards you will come to know soon.</p>
+        <p>
+          A simple and effective way to keep your legs in front of you and your
+          opponent. Any time your legs are in front of you and your opponent
+          this is considered your "guard." Jiu-Jitsu has many types of guards
+          you will come to know soon.
+        </p>
         <iframe
           width="80%"
           height="315"
@@ -70,7 +81,11 @@ export default function FirstWeeks() {
 
         <h3>Bridge and Upa to Forward Roll</h3>
         <p>
-          Same as above with an added step. The forward roll can be used to escape bad positions. Emphasis on rolling through the shoulder is important. It is often instinctual to roll on your head, however in sparring this is very dangerous as it can put potential force on your neck. 
+          Same as above with an added step. The forward roll can be used to
+          escape bad positions. Emphasis on rolling through the shoulder is
+          important. It is often instinctual to roll on your head, however in
+          sparring this is very dangerous as it can put potential force on your
+          neck.
         </p>
         <iframe
           width="80%"
@@ -101,8 +116,8 @@ export default function FirstWeeks() {
 
       <Collapsible className="collapse" trigger="Basic Positions">
         <p>
-          Getting a visual of the core positions will be best to understand them.
-          This video below is a great starting place.
+          Getting a visual of the core positions will be best to understand
+          them. This video below is a great starting place.
         </p>
         <iframe
           width="80%"
@@ -117,11 +132,12 @@ export default function FirstWeeks() {
 
       <Collapsible className="collapse" trigger="Jiu-Jitsu Scoring">
         <p>
-          Competing in Jiu-Jitsu is one of the greatest aspects of the sport. Competitions
-          are safe and fun ways to test yourself. If your child is interested in
-          competing here is a breakdown of the basic ways to score in Jiu-Jitsu.
-          It can become complicated, but at this point having a general
-          understanding of where points are scored can be very beneficial.
+          Competing in Jiu-Jitsu is one of the greatest aspects of the sport.
+          Competitions are safe and fun ways to test yourself. If your child is
+          interested in competing here is a breakdown of the basic ways to score
+          in Jiu-Jitsu. It can become complicated, but at this point having a
+          general understanding of where points are scored can be very
+          beneficial.
         </p>
         <img className="scoring-img" src={Scoring}></img>
         <p>
@@ -133,7 +149,9 @@ export default function FirstWeeks() {
       <Collapsible className="collapse" trigger="The Belt System">
         <p>
           At Combat Arts students progress through the kids belt system. From
-          white to grey students will receive one stripe for every 5 classes. It takes 8 stripes in order to progress to a grey belt. Once grey is obtained it will slow to 1 stripe for every 10 classes.
+          white to grey students will receive one stripe for every 5 classes. It
+          takes 8 stripes in order to progress to a grey belt. Once grey is
+          obtained it will slow to 1 stripe for every 10 classes.
         </p>
         <img src={Belts} className="belts-img" />
       </Collapsible>
