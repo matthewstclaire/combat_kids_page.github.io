@@ -1,6 +1,6 @@
 import React from "react";
-import KidsLogo from "../public/for-kids.png";
-import Group from "../public/group.png";
+import KidsLogo from "../src/for-kids.png";
+import Group from "../src/group.png";
 
 export default function Home() {
   return (
@@ -20,10 +20,10 @@ export default function Home() {
       </p>
       <img src={Group} className="group-photo"></img>
       <br />
-      <small>
+      {/* <small>
         Lining up by rank is a longstanding tradition and how all classes at
         Combat Arts are started.
-      </small>
+      </small> */}
     </div>
   );
 }

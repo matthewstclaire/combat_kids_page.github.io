@@ -1,6 +1,7 @@
 import "./App.css";
 import AppRouter from "../components/AppRouter";
-import Logo from "../public/main-logo.png";
+import Logo from "../src/main-logo.png";
+import Footer from "../components/Footer";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         </button>
       </nav>
       <AppRouter />
+      {/* <Footer /> */}
     </div>
   );
 }
