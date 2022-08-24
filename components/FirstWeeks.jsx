@@ -4,7 +4,6 @@ import { useState } from "react";
 import Scoring from "../src/scoring.png";
 import Blackbelt from "../src/blackbelt.png";
 import Belts from "../src/Kids-Belt-Ranking.png";
-import ArrowDown from "../src/down-arrow-svgrepo-com.svg";
 
 export default function FirstWeeks() {
   return (

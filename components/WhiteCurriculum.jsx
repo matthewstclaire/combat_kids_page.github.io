@@ -9,14 +9,14 @@ export default function WhiteCurriculum(props) {
 
       <iframe
         src="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub?embedded=true"
-        frameBorder="0"
+        frameBorder="1px"
         scrolling="auto"
-        height="500px"
-        width="100%"
-      ></iframe>
+        height="90%"
+        width="90%"
+      />
 
       <p>Tap the button below for a printable link.</p>
-      <button className="button1">
+      <button className="print-button">
         <a href="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub">
           Printable Link
         </a>
