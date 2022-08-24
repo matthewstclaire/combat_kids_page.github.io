@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Blackbelt from "../src/blackbelt.png";
 
-export default function SinglePage(props) {
+export default function WhiteCurriculum(props) {
   return (
     <div>
       <h1>White to Grey Curriculum</h1>

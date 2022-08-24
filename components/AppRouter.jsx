@@ -1,6 +1,6 @@
 import React from "react";
 import FirstWeeks from "./FirstWeeks";
-import WhiteCurriculum from "./whiteCurriculum";
+import WhiteCurriculum from "./WhiteCurriculum";
 import Home from "./Home";
 import HelpfulLinks from "./HelpfulLinks";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
