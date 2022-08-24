@@ -1,5 +1,6 @@
 import React from "react";
 import Collapsible from "react-collapsible";
+import { useState } from "react";
 
 export default function FirstWeeks() {
   return (
@@ -10,11 +11,11 @@ export default function FirstWeeks() {
         new space can feel overwhelming for both parents and new students. This
         page serves as a tool to help parents and new students understand some
         building blocks of Jiu-Jitsu at Combat Arts. By building confidence in
-        these skills students can quickly translate this to other skills. Warm ups, basic positioning, and a general idea of scoring will set students up for success.
+        these skills students can quickly translate this to other skills. Warm
+        ups, basic positioning, and a general idea of scoring will set students
+        up for success.
       </p>
       <Collapsible className="collapse" trigger="Tap to Learn About Warm Ups">
-        <h1>Warm Ups</h1>
-
         <h2>Warm Ups</h2>
         <p>
           Warm ups are designed to help new students understand basic movements
@@ -105,6 +106,13 @@ export default function FirstWeeks() {
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
+      </Collapsible>
+
+      <Collapsible
+        className="collapse"
+        trigger="Tap to Learn About Jiu-Jitsu Scoring"
+      >
+        <h1>Hello</h1>
       </Collapsible>
     </div>
   );
