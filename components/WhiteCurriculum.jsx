@@ -7,12 +7,6 @@ export default function WhiteCurriculum(props) {
       <h1>White to Grey Curriculum</h1>
       <img className="blackbelt-img" src={Blackbelt} alt="blackbelt" />
 
-      <p>Find a printable version below</p>
-      <button className="print-button">
-        <a href="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub"></a>
-        Tap for Printable Version
-      </button>
-
       <iframe
         src="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub?embedded=true"
         frameBorder="0"
@@ -20,6 +14,13 @@ export default function WhiteCurriculum(props) {
         height="500px"
         width="100%"
       ></iframe>
+
+      <p>Tap the button below for a printable link.</p>
+      <button className="button1">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub">
+          Printable Link
+        </a>
+      </button>
     </div>
   );
 }
