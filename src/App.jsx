@@ -3,7 +3,6 @@ import AppRouter from "../components/AppRouter";
 import Logo from "../src/main-logo.png";
 import Footer from "../components/Footer";
 
-
 function App() {
   return (
     <div className="App">
@@ -25,9 +24,7 @@ function App() {
         </button>
 
         <button>
-          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/helpful-links">
-            Helpful Links
-          </a>
+          <a href="http://127.0.0.1:5173/helpful-links">Helpful Links</a>
         </button>
       </nav>
       <AppRouter />

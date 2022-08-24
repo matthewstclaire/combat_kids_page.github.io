@@ -26,12 +26,7 @@ export default function HelpfulLinks() {
         the journey.
       </p>
 
-      <div className="helpful-links-list">
-        <p>{data.title}</p>
-        <button className="button3">
-          <a href={data.link}>{data.buttonText}</a>
-        </button>
-      </div>
+      {cardData}
     </div>
   );
 }
