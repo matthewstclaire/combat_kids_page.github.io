@@ -18,12 +18,12 @@ export default function Home() {
         introductions and initial awkwardness you both will have found a
         lifelong hobby.
       </p>
-      <img src={Group} className="group-photo"></img>
+      <div className="group-photo-text"><img src={Group} className="group-photo"></img>
       <br />
-      {/* <small>
+      <small>
         Lining up by rank is a longstanding tradition and how all classes at
         Combat Arts are started.
-      </small> */}
+      </small></div>
     </div>
   );
 }
