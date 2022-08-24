@@ -12,17 +12,21 @@ function App() {
         </a>
 
         <button>
-          <a href="http://127.0.0.1:5173/first-weeks">First Weeks</a>
+          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/first-weeks">
+            First Weeks
+          </a>
         </button>
 
         <button>
-          <a href="http://127.0.0.1:5173/white-to-gray-curriculum">
+          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/white-to-gray-curriculum">
             White to Gray
           </a>
         </button>
 
         <button>
-          <a href="http://127.0.0.1:5173/helpful-links">Helpful Links</a>
+          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/helpful-links">
+            Helpful Links
+          </a>
         </button>
       </nav>
       <AppRouter />
