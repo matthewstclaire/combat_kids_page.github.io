@@ -174,3 +174,7 @@ a:active {
   padding-bottom: 7px;
   font-family: "Urbanist", sans-serif;
 }
+
+.expectation-list {
+  text-align: left;
+}

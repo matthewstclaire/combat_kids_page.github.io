@@ -26,7 +26,7 @@ export default function FirstWeeks() {
 
       <Collapsible className="collapse" trigger="Expectation for Students">
         <p>Below is a list of what is expected of all students.</p>
-        <ul>
+        <ul className="expectation-list">
           <li>Show respect towards your instructors and students.</li>
           <li>No talking during instruction.</li>
           <li>No shoes on the mat.</li>
