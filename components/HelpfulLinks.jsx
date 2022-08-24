@@ -15,25 +15,6 @@ export default function HelpfulLinks() {
       </p>
 
       <div className="helpful-links-list">
-        <p>
-          This article was written by a woman starting Jiu-Jitsu later in life.{" "}
-        </p>
-        <button className="button1">
-          <a href="https://www.buzzfeed.com/nataliakrslovic/taking-up-brazilian-jiu-jitsu">
-            Take Me There
-          </a>
-        </button>
-
-        <p>
-          This is an article written by Yahoo discussing reasons why Jiu-Jitsu
-          is great for kids.
-        </p>
-        <button className="button2">
-          <a href="https://sg.news.yahoo.com/4-reasons-why-brazilian-jiu-jitsu-is-one-of-the-best-martial-arts-for-kids-013025041.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJ4TsPkJT0aDv6mUDFs5fTebS9EwaYjBLc_-d_QLYeHxjrXzmiDQIQT2-7wIBkO9E4bRZSKqmRAaqdKRZkuym5XD4sKRq815wbhq87ja3SEbtafNzRShTyCCvzU3oUTyudrFj9vSEMiArtyoR3k8l8gRPbpws6rwkJZ9jZbzO_yI">
-            Check It Out
-          </a>
-        </button>
-
         <p>A brief history of Jiu-Jitsu</p>
         <button className="button3">
           <a href="https://www.greenwichjiujitsu.com/history-of-jiu-jitsu">
@@ -56,6 +37,25 @@ export default function HelpfulLinks() {
         <p>IBJJF Rule Book</p>
         <button className="button4">
           <a href="https://ibjjf.com/books-videos">Read Here</a>
+        </button>
+
+        <p>
+          This article was written by a woman starting Jiu-Jitsu later in life.{" "}
+        </p>
+        <button className="button1">
+          <a href="https://www.buzzfeed.com/nataliakrslovic/taking-up-brazilian-jiu-jitsu">
+            Take Me There
+          </a>
+        </button>
+
+        <p>
+          This is an article written by Yahoo discussing reasons why Jiu-Jitsu
+          is great for kids.
+        </p>
+        <button className="button2">
+          <a href="https://sg.news.yahoo.com/4-reasons-why-brazilian-jiu-jitsu-is-one-of-the-best-martial-arts-for-kids-013025041.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJ4TsPkJT0aDv6mUDFs5fTebS9EwaYjBLc_-d_QLYeHxjrXzmiDQIQT2-7wIBkO9E4bRZSKqmRAaqdKRZkuym5XD4sKRq815wbhq87ja3SEbtafNzRShTyCCvzU3oUTyudrFj9vSEMiArtyoR3k8l8gRPbpws6rwkJZ9jZbzO_yI">
+            Check It Out
+          </a>
         </button>
       </div>
     </div>
