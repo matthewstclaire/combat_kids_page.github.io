@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar-main">
-        <a href="http://127.0.0.1:5173/">
+        <a href="https://kaleidoscopic-sable-2534a7.netlify.app/">
           <img className="main-logo" src={Logo} />
         </a>
 
