@@ -6,8 +6,14 @@ import data from "../data/data.js";
 
 export default function HelpfulLinks() {
   const cardData = data.map((data) => {
-    return <Card data={data} />;
-    console.log(cardData);
+    return (
+      <div className="helpful-links-list">
+        <p>{data.title}</p>
+        <button className="button3">
+          <a href={data.link}>{data.buttonText}</a>
+        </button>
+      </div>
+    );
   });
 
   return (
