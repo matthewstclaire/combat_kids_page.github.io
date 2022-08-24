@@ -9,7 +9,7 @@ export default function AppRouter() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/first-weeks" element={<FirstWeeks />} />
         <Route path="white-to-gray-curriculum" element={<WhiteCurriculum />} />
         <Route path="helpful-links" element={<HelpfulLinks />} />
