@@ -24,7 +24,7 @@ function App() {
         </button>
 
         <button>
-          <a href="http://127.0.0.1:5173/helpful-links">Helpful Links</a>
+          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/helpful-links">Helpful Links</a>
         </button>
       </nav>
       <AppRouter />
