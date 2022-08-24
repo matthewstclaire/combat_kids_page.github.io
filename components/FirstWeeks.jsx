@@ -4,6 +4,7 @@ import { useState } from "react";
 import Scoring from "../src/scoring.png";
 import Blackbelt from "../src/blackbelt.png";
 import Belts from "../src/Kids-Belt-Ranking.png";
+import ArrowDown from "../src/down-arrow-svgrepo-com.svg";
 
 export default function FirstWeeks() {
   return (
@@ -31,7 +32,7 @@ export default function FirstWeeks() {
           movement and what its eventual use will be.
         </p>
         <h3>Break Falls/Stand Up and Base</h3>
-        <p>This is something about the thing</p>
+        <p>Falling correctly is a core skill in Jiu-Jitsu. Inevitably you are going to fall down, but you can drastically minimize injury by learning to break fall correctly. Standing up and base is a more technical way of standing while offering yourself protection.</p>
         <iframe
           width="80%"
           height="315"

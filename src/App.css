@@ -59,7 +59,7 @@ a:link {
   padding-top: 7px;
   padding-bottom: 7px;
   font-family: "Urbanist", sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 a:visited {
@@ -108,8 +108,8 @@ a:active {
 }
 
 .Collapsible {
-  font-size: 20px;
-  background-color: black;
+  font-size: 17px;
+  background-color: rgb(46, 51, 57);
   color: white;
   border-radius: 10px;
   padding-top: 10px;
@@ -119,6 +119,7 @@ a:active {
 
 .Collapsible > p {
   color: red;
+  font-size: 12px;
 }
 
 .blackbelt-img {
