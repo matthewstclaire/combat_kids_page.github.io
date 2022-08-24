@@ -11,7 +11,7 @@ export default function WhiteCurriculum(props) {
         src="https://docs.google.com/document/d/e/2PACX-1vT9CM-CQjLJsMlWZUqoqOIC2Cu5H3rUinRZSIE_ehBMo6Z4OiOhu1RrDUgQonlqJAJItSJFyvxfkoT0/pub?embedded=true"
         frameBorder="1px"
         scrolling="auto"
-        height="500px"
+        height="400px"
         width="95%"
       />
 
