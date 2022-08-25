@@ -12,19 +12,19 @@ function App() {
         </a>
 
         <button>
-          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/first-weeks">
+          <a href="/first-weeks">
             First Weeks
           </a>
         </button>
 
         <button>
-          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/white-to-gray-curriculum">
+          <a href="/white-to-gray-curriculum">
             White to Gray
           </a>
         </button>
 
         <button>
-          <a href="https://kaleidoscopic-sable-2534a7.netlify.app/helpful-links">
+          <a href="/helpful-links">
             Helpful Links
           </a>
         </button>
