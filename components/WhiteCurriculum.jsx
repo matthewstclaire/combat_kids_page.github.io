@@ -1,5 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import Blackbelt from "../src/blackbelt.png";
+import Footer from "./Footer";
 
 export default function WhiteCurriculum(props) {
   return (
@@ -21,6 +22,7 @@ export default function WhiteCurriculum(props) {
           Printable Link
         </a>
       </button>
+      {/* <Footer /> */}
     </div>
   );
 }

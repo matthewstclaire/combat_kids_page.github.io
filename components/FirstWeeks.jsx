@@ -1,6 +1,5 @@
 import React from "react";
 import Collapsible from "react-collapsible";
-import { useState } from "react";
 import Scoring from "../src/scoring.png";
 import Blackbelt from "../src/blackbelt.png";
 import Belts from "../src/Kids-Belt-Ranking.png";

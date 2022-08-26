@@ -1,7 +1,5 @@
 import React from "react";
 import Blackbelt from "../src/blackbelt.png";
-import { Document, Page } from "react-pdf";
-import { useState } from "react";
 import data from "../data/data.js";
 
 export default function HelpfulLinks() {

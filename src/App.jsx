@@ -12,25 +12,19 @@ function App() {
         </a>
 
         <button>
-          <a href="/first-weeks">
-            First Weeks
-          </a>
+          <a href="/first-weeks">First Weeks</a>
         </button>
 
         <button>
-          <a href="/white-to-gray-curriculum">
-            White to Gray
-          </a>
+          <a href="/white-to-gray-curriculum">White to Gray</a>
         </button>
 
         <button>
-          <a href="/helpful-links">
-            Helpful Links
-          </a>
+          <a href="/helpful-links">Helpful Links</a>
         </button>
       </nav>
       <AppRouter />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
