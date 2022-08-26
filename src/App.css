@@ -99,7 +99,7 @@ a:active {
 .group-photo {
   margin: 30px auto 0;
   max-width: 90%;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 
 /* small {
@@ -184,4 +184,9 @@ a:active {
 
 .collapse {
   margin: 12px;
+}
+
+.open-statement {
+  padding-bottom: 20px;
+  padding-top: 15px;
 }
