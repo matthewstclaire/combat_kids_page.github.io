@@ -102,7 +102,7 @@ export default function FirstWeeks() {
         <iframe
           width="90%"
           height="315"
-          src="https://www.youtube.com/embed/ywDd8YRbkvQ?start=39"
+          src="https://www.youtube.com/embed/ywDd8YRbkvQ?start=40"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
