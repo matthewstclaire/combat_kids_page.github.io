@@ -99,7 +99,7 @@ a:active {
 .group-photo {
   margin: 30px auto 0;
   max-width: 90%;
-  /* border-radius: 5px; */
+  border-radius: 5px;
 }
 
 /* small {
