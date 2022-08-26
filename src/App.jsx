@@ -24,7 +24,7 @@ function App() {
         </button>
       </nav>
       <AppRouter />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
