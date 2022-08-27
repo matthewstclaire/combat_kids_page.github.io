@@ -14,9 +14,9 @@ export default function Home() {
       <p>
         Here you will find videos and links to learn more about what to expect
         when getting started. It can be an extremely nerve-wracking experience
-        starting out, but we know once you and your child get through the
+        in the beginning, but we know once you and your child get through the
         introductions and initial awkwardness both parents and students have an
-        immense amount to learn about themselves.
+        immense amount to gain from this beautiful art. 
       </p>
       <div className="group-photo-text">
         <img src={Group} className="group-photo"></img>
